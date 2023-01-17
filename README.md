@@ -1,7 +1,7 @@
 # Page-Rank
 An Implementation of Page Rank Algorithm to Rank Wikipedia Pages
 
-Please put the .mtx file and the notebook in the same directory and change the file path to the .mtx file in the code. 
+Please put the .mtx file and the notebook in the same directory and change the file for the .mtx file in the code. 
 
 More about the web-wikipedia2009.mtx:
   - The second line contains the dimensions of the matrix that represents the network of Wikipedia pages.
